@@ -1,0 +1,9 @@
+C:/Users/Dell/Desktop/Testing/build/CMakeFiles/fact_run.dir
+C:/Users/Dell/Desktop/Testing/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Dell/Desktop/Testing/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/Desktop/Testing/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Dell/Desktop/Testing/build/src/CMakeFiles/fact_lib.dir
+C:/Users/Dell/Desktop/Testing/build/src/CMakeFiles/RUN_TESTS.dir
+C:/Users/Dell/Desktop/Testing/build/testing/CMakeFiles/fact_test.dir
+C:/Users/Dell/Desktop/Testing/build/testing/CMakeFiles/RUN_TESTS.dir
+C:/Users/Dell/Desktop/Testing/build/testing/CMakeFiles/ALL_BUILD.dir

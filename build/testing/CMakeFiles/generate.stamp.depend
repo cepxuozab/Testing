@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindGTest.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/GoogleTest.cmake
+C:/Users/Dell/Desktop/Testing/build/GTest-Target-release.cmake
+C:/Users/Dell/Desktop/Testing/build/GTest-release-x86_64-data.cmake
+C:/Users/Dell/Desktop/Testing/build/GTestConfig.cmake
+C:/Users/Dell/Desktop/Testing/build/GTestConfigVersion.cmake
+C:/Users/Dell/Desktop/Testing/build/GTestTargets.cmake
+C:/Users/Dell/Desktop/Testing/build/cmakedeps_macros.cmake
+C:/Users/Dell/Desktop/Testing/build/fmt-Target-release.cmake
+C:/Users/Dell/Desktop/Testing/build/fmt-config-version.cmake
+C:/Users/Dell/Desktop/Testing/build/fmt-config.cmake
+C:/Users/Dell/Desktop/Testing/build/fmt-release-x86_64-data.cmake
+C:/Users/Dell/Desktop/Testing/build/fmtTargets.cmake
+C:/Users/Dell/Desktop/Testing/testing/CMakeLists.txt

@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.21)
+project(Factorial)
+
+set(CMAKE_CXX_STANDARD 20)
+set(SOURCE_FILES main.cpp)
+
+enable_testing()
+
+add_executable(fact_run ${SOURCE_FILES} )
+
+
+
+include_directories(src)
+add_subdirectory(src)
+target_link_libraries(fact_run fact_lib)
+add_subdirectory(testing)
+
