@@ -1,3 +1,0 @@
-﻿  Building Custom Rule C:/Users/Dell/Desktop/Testing/testing/CMakeLists.txt
-  test.cpp
-C:\Users\Dell\Desktop\Testing\testing\test.cpp(2,10): fatal  error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory,
