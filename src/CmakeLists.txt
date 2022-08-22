@@ -1,0 +1,3 @@
+set(SOURCE_FILES factorial.cpp)
+set(HEADER_FILES factorial.h)
+add_library(fact_lib ${HEADER_FILES} ${SOURCE_FILES})
